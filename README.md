@@ -14,7 +14,7 @@ this [MLOps course](https://github.com/SkafteNicki/dtu_mlops).
 ## Start a new project
 
 ```bash
-cookiecutter https://github.com/SkafteNicki/mlops_template
+cookiecutter https://github.com/Lucasmogsan/mlops_template.git
 ```
 
 and input starting values for the project.
